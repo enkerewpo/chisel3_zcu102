@@ -1,0 +1,6 @@
+
+open vivado shell under cmd:
+C:\Xilinx\Vivado\2024.2\bin\vivado.bat -mode tcl
+
+open vitis console
+C:\Xilinx\Vitis\2024.2\bin\vitis.bat -i

@@ -105,3 +105,4 @@ hw_handoff
 ipshared
 .DS_Store
 .vscode
+vitis_journal.py
